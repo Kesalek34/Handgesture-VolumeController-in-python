@@ -1,7 +1,7 @@
 # 🎵 Hand Gesture Volume Control
 The project allows you to control your system volume using hand gestures captured by a webcam by moving your thumb and index finger closer and farther apart to increase and decrease volume in real time
 
-##Features
+Features
 ✅ Real-time hand tracking using MediaPipe
 ✅ System volume control through the PyCaw
  library.
