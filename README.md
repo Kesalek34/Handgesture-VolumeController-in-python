@@ -51,10 +51,12 @@ PyCaw – System volume control.
 Windows API – Simulates volume key presses.
 
 ## 🔧 Future Improvements
+
 Add cross-platform support (Linux/Mac).
 Add gesture-based mute/unmute.
 Display on-screen volume indicator.
---------------------------------------------------------------------------------
+
+---
 ## 👤 Author
 Created by Kesaobaka Lekaote 💻
 
